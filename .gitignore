@@ -1,0 +1,7 @@
+Library/
+*.suo
+*.csproj
+*.sln
+/[Uu]ser[Ss]ettings/
+ProjectSettings/ProjectVersion.txt
+Temp/
